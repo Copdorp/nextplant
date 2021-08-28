@@ -1,0 +1,5 @@
+.idea
+*.sqlite3
+*.jpeg
+*.iml
+**/__pycache__
